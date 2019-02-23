@@ -20,6 +20,4 @@ The data set is made up of paper downloaded from the arXiv website. It is collec
 |math.ST (Statistics Theory) 	  |         6025        |      6983    |
 
 
-Data statistics: average number of words for each document in this data set is 6311, maximum and minimum words are 10000 and 1000
-
 
